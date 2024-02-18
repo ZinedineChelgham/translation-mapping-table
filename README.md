@@ -1,4 +1,4 @@
-# translation-mapping-table unique design
+# A translation-mapping-table for your app using MUI components
 The goal of this project is to provide a convenient way to manage translations labels in a multi-languages app.
 
 ## Overview 
